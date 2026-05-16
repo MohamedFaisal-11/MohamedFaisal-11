@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Faisal 👋</h1>
 
 <h3 align="center">
-  Data Analyst · Python · SQL · Power BI · NLP
+  Data Analyst · Python · NLP · Computer Vision · Deep Learning
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-muhfhii10@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
- <a href="https://www.linkedin.com/in/muhfhii10">
+  <a href="https://www.linkedin.com/in/muhfhii10">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Faisal-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -22,66 +22,74 @@
 
 ## 🙋‍♂️ About Me
 
-Passionate **Data Analyst** with hands-on project experience in building analytical dashboards, NLP models, and transforming raw data into actionable business insights. Actively seeking entry-level Data Analyst opportunities worldwide.
+Research-oriented **Data Analyst & AI Developer** with strong expertise in Python, NLP, and Computer Vision. Experienced in developing multilingual NLP systems and deep learning–based object detection models under real-world constraints. Skilled in data pipelines, experimental evaluation, and technical documentation.
 
-- 🎓 Completed **MCA at Pondicherry University** (2024–2026)
-- 🌱 Currently deepening skills in **NLP, ETL Pipelines & Advanced Power BI**
-- 💡 Reduced manual reporting effort by **40%** through workflow automation
-- 📊 Improved sentiment analysis accuracy by **18%** using hybrid NLP techniques
-- 💬 Ask me about **SQL, Python, Power BI, Dashboards, Data Cleaning**
-- 🔍 **Open to work** — Entry Level Data Analyst roles worldwide
+- 🎓 Completed **MCA at Pondicherry University, Karaikal Campus** (2024–2026)
+- 🤖 Built an **AI-based marine biodiversity detection system** using YOLO, RetinaNet & SSD
+- 🗳️ Predicted **TVK as leading party** in TN Election 2026 using sentiment analysis — validated by official results (108 seats)
+- 📄 Research paper submitted to **ICSCS 2026** (Under Review)
+- 🎤 Conducted seminar on **NLP & Embeddings** · Led **Power BI & Data Visualization** workshop
+- 🔍 **Open to work** — Entry Level Data Analyst / AI / NLP roles worldwide
 - 📍 Karaikal, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Query**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**Data Visualization & BI**
+**AI & Data**
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-1D6FA5?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E24AA?style=flat&logo=python&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-6A1B9A?style=flat&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0288D1?style=flat&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00897B?style=flat&logo=python&logoColor=white)
 
-**Python Libraries**
+**Libraries & Models**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11n-00FFFF?style=flat&logo=python&logoColor=black)
+![VADER](https://img.shields.io/badge/VADER-7B1FA2?style=flat&logo=python&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-AB47BC?style=flat&logo=python&logoColor=white)
 
-**Tools & Concepts**
+**Tools & Technologies**
 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-00897B?style=flat&logo=apacheairflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E24AA?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗳️ Multilingual Sentiment Analysis — TN Election 2026
-> Analyzed 880+ multilingual social media posts to identify sentiment patterns and audience engagement trends.
+### 🐠 AI-Based Marine Biodiversity Detection System
+> Object detection system for macrobenthic species using deep learning under extreme data scarcity.
 
-- 🔹 Built a hybrid NLP model using **VADER + TextBlob**, improving accuracy by **18%**
-- 🔹 Identified high-engagement digital platforms and communication trends
-- 🔹 Generated actionable insights on audience sentiment across languages
+- 🔹 Evaluated **11 models** (YOLO, RetinaNet, SSD) — selected **YOLOv11n** for optimal accuracy & efficiency
+- 🔹 Designed a **data augmentation pipeline**, expanding dataset to **~195,000 images**
+- 🔹 Built full-stack system with **FastAPI backend** + **Flutter mobile app**
+- 🔹 Enabled **real-time detection**, GPS-based logging, and **edge AI deployment**
+- 🔹 Research paper submitted to **ICSCS 2026** (Under Review)
+
 
 ---
 
-### 📊 Sales & KPI Dashboard — Power BI + SQL
-> Interactive business dashboard to track revenue trends, customer behavior, and product performance.
+### 🗳️ Multilingual Sentiment Analysis — TN Election 2026
+> NLP pipeline analyzing 884+ posts across Instagram, YouTube, and Facebook.
 
-- 🔹 Used SQL **aggregations, joins, and CTEs** to prepare analytics-ready datasets
-- 🔹 Built dynamic **Power BI dashboards** with DAX measures and Power Query
-- 🔹 Enabled faster decision-making by centralizing KPIs into visual dashboards
+- 🔹 Built hybrid sentiment model using **VADER + TextBlob + Tamil lexicon**
+- 🔹 Analyzed cross-platform engagement trends using **EDA techniques**
+- 🔹 **Forecasted TVK as leading party** — validated by official results **(108 seats)**
+- 🔹 Generated insights through data visualization and reporting
+
 
 ---
 
@@ -89,20 +97,22 @@ Passionate **Data Analyst** with hands-on project experience in building analyti
 
 | Achievement | Result |
 |---|---|
-| ⚡ Reporting workflow automation | Reduced manual effort by **40%** |
-| 🎯 NLP sentiment model improvement | Accuracy improved by **18%** |
-| 📱 Social media posts analyzed | **880+** multilingual posts |
-| 📊 KPI dashboards delivered | Real-time business monitoring |
+| 🐠 Deep learning models evaluated | **11 models** compared for marine detection |
+| 📸 Dataset built via augmentation | **~195,000 images** from scarce data |
+| 🗳️ Election prediction accuracy | Forecasted TVK — confirmed **108 seats** |
+| 📱 Social media posts analyzed | **884+** multilingual posts |
+| 📄 Research publication | Submitted to **ICSCS 2026** (Under Review) |
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Platform |
-|---|---|---|
-| 📌 Data Analysis & Visualization with Power BI | Microsoft | Coursera |
-| 📌 Power BI Certification | Simplilearn | Simplilearn |
-| 📌 Cloud & Cyber Security | Simplilearn | Simplilearn |
+| Certificate | Issuer |
+|---|---|
+| 📌 Data Analysis & Visualization with Power BI | Microsoft · Coursera |
+| 📌 Power BI for Beginners | Microsoft · Simplilearn |
+| 📌 Introduction to Cloud Computing | Simplilearn |
+| 📌 Introduction to Cyber Security | Simplilearn |
 
 ---
 
@@ -110,8 +120,9 @@ Passionate **Data Analyst** with hands-on project experience in building analyti
 
 | Degree | Institution | Year |
 |---|---|---|
-| 🎓 Master of Computer Applications (MCA) | Pondicherry University | 2024–2026 |
-| 🎓 B.Sc Computer Science | Annamalai University | 2021–2024 |
+| 🎓 Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 |
+| 🎓 B.Sc. Computer Science | Annamalai University | 2024 · 82% |
+
 
 ---
 
@@ -135,7 +146,7 @@ Passionate **Data Analyst** with hands-on project experience in building analyti
   <a href="mailto:muhfhii10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/mohamedfaisal">
+  <a href="https://www.linkedin.com/in/muhfhii10">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MohamedFaisal-11">
@@ -146,7 +157,7 @@ Passionate **Data Analyst** with hands-on project experience in building analyti
 ---
 
 <p align="center">
-  <i>"Data is the new oil — I help refine it. 📊"</i>
+  <i>"Turning complex data into clear decisions. 📊"</i>
 </p>
 
 <p align="center">
