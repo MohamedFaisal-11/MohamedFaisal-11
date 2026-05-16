@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-muhfhii10@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mohamedfaisal">
+ <a href="https://www.linkedin.com/in/muhfhii10">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Faisal-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
