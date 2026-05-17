@@ -1,107 +1,124 @@
-<h1 align="center">Hi there, I'm Mohamed Faisal 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Analyst · Python · NLP · Computer Vision · Deep Learning
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Mohamed%20Faisal%20N&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=55&descSize=16"/>
 
-<p align="center">
-  <a href="mailto:muhfhii10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhfhii10@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhfhii10">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Faisal-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MohamedFaisal-11">
-    <img src="https://img.shields.io/badge/GitHub-MohamedFaisal--11-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
+<p>
+<a href="mailto:muhfhii10@gmail.com"><img src="https://img.shields.io/badge/Gmail-muhfhii10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhfhii10"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Faisal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/MohamedFaisal-11"><img src="https://img.shields.io/badge/GitHub-MohamedFaisal--11-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=MohamedFaisal-11&color=1f6feb&style=flat&label=Profile+Views"/>
 
-## 🙋‍♂️ About Me
-
-Research-oriented **Data Analyst & AI Developer** with strong expertise in Python, NLP, and Computer Vision. Experienced in developing multilingual NLP systems and deep learning–based object detection models under real-world constraints. Skilled in data pipelines, experimental evaluation, and technical documentation.
-
-- 🎓 Completed **MCA at Pondicherry University, Karaikal Campus** (2024–2026)
-- 🤖 Built an **AI-based marine biodiversity detection system** using YOLO, RetinaNet & SSD
-- 🗳️ Predicted **TVK as leading party** in TN Election 2026 using sentiment analysis — validated by official results (108 seats)
-- 📄 Research paper submitted to **ICSCS 2026** (Under Review)
-- 🎤 Conducted seminar on **NLP & Embeddings** · Led **Power BI & Data Visualization** workshop
-- 🔍 **Open to work** — Entry Level Data Analyst / AI / NLP roles worldwide
-- 📍 Karaikal, India
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-**Programming**
+```python
+class MohamedFaisal:
+    name       = "Mohamed Faisal N"
+    role       = "Data Analyst & AI Developer"
+    location   = "Tamil Nadu, India"
+    education  = "MCA — Pondicherry University (2024–2026)"
+    seeking    = "Entry-Level Data Analyst / AI / NLP Roles Worldwide"
+    interests  = ["NLP", "Computer Vision", "Data Analytics", "Deep Learning"]
+    contact    = "muhfhii10@gmail.com"
+```
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+> Research-oriented Data Analyst with strong expertise in Python, NLP, and Computer Vision. Experienced in building multilingual NLP systems, deep learning object detection models, and end-to-end data pipelines. Passionate about turning complex data into clear decisions.
 
-**AI & Data**
+---
 
-![NLP](https://img.shields.io/badge/NLP-8E24AA?style=flat&logo=python&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-6A1B9A?style=flat&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0288D1?style=flat&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-00897B?style=flat&logo=python&logoColor=white)
+## 🏆 Highlights
 
-**Libraries & Models**
+<div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv11n-00FFFF?style=flat&logo=python&logoColor=black)
-![VADER](https://img.shields.io/badge/VADER-7B1FA2?style=flat&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-AB47BC?style=flat&logo=python&logoColor=white)
+| 🐠 Models Evaluated | 📸 Dataset Size | 🗳️ Election Prediction | 📱 Posts Analyzed | 📄 Research |
+|:---:|:---:|:---:|:---:|:---:|
+| **11 Models** | **~195,000 Images** | **TVK — 108 Seats ✅** | **884+ Posts** | **ICSCS 2026** |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Databases**
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & Machine Learning**
+
+![NLP](https://img.shields.io/badge/NLP-8E24AA?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0288D1?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv11n](https://img.shields.io/badge/YOLOv11n-00FFFF?style=flat-square&logo=python&logoColor=black)
+![VADER](https://img.shields.io/badge/VADER-7B1FA2?style=flat-square&logo=python&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-AB47BC?style=flat-square&logo=python&logoColor=white)
+![RetinaNet](https://img.shields.io/badge/RetinaNet-E53935?style=flat-square&logo=python&logoColor=white)
+![SSD](https://img.shields.io/badge/SSD-F4511E?style=flat-square&logo=python&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Tools & Technologies**
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-00ACC1?style=flat-square&logo=python&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🐠 AI-Based Marine Biodiversity Detection System
-> Object detection system for macrobenthic species using deep learning under extreme data scarcity.
+> End-to-end deep learning system for real-time macrobenthic species detection under extreme data scarcity.
 
-- 🔹 Evaluated **11 models** (YOLO, RetinaNet, SSD) — selected **YOLOv11n** for optimal accuracy & efficiency
-- 🔹 Designed a **data augmentation pipeline**, expanding dataset to **~195,000 images**
-- 🔹 Built full-stack system with **FastAPI backend** + **Flutter mobile app**
-- 🔹 Enabled **real-time detection**, GPS-based logging, and **edge AI deployment**
-- 🔹 Research paper submitted to **ICSCS 2026** (Under Review)
+`Python` `YOLOv11n` `RetinaNet` `SSD` `FastAPI` `Flutter` `Edge AI`
 
+- 🔬 Evaluated **11 deep learning models** — selected **YOLOv11n** for best accuracy & efficiency
+- 📸 Designed a **data augmentation pipeline** — expanded dataset to **~195,000 images**
+- 📱 Built full-stack system: **FastAPI backend** + **Flutter mobile app**
+- 🌍 Enabled **real-time detection**, GPS-based logging, and **edge AI deployment**
+- 📄 Research submitted to **ICSCS 2026** *(Under Review)*
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-marine--biodiversity--detection-0288D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/marine-biodiversity-detection)
 
 ---
 
 ### 🗳️ Multilingual Sentiment Analysis — TN Election 2026
-> NLP pipeline analyzing 884+ posts across Instagram, YouTube, and Facebook.
+> NLP pipeline predicting election outcomes from 884+ multilingual social media posts.
 
-- 🔹 Built hybrid sentiment model using **VADER + TextBlob + Tamil lexicon**
-- 🔹 Analyzed cross-platform engagement trends using **EDA techniques**
-- 🔹 **Forecasted TVK as leading party** — validated by official results **(108 seats)**
-- 🔹 Generated insights through data visualization and reporting
+`Python` `VADER` `TextBlob` `Tamil Lexicon` `YouTube API` `InstaLoader` `EDA`
 
+- 🌐 Analyzed posts across **Instagram, YouTube, and Facebook**
+- 🤖 Built hybrid model: **VADER + TextBlob + Tamil lexicon**
+- 📊 Performed **cross-platform engagement & trend analysis** using EDA
+- 🏆 **Predicted TVK as leading party** — confirmed by official results **(108 seats)**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-sentiment--analysis--tn2026-8E24AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/sentiment-analysis-tn2026)
 
 ---
 
-## 🏆 Key Achievements
+## 📄 Research & Publications
 
-| Achievement | Result |
-|---|---|
-| 🐠 Deep learning models evaluated | **11 models** compared for marine detection |
-| 📸 Dataset built via augmentation | **~195,000 images** from scarce data |
-| 🗳️ Election prediction accuracy | Forecasted TVK — confirmed **108 seats** |
-| 📱 Social media posts analyzed | **884+** multilingual posts |
-| 📄 Research publication | Submitted to **ICSCS 2026** (Under Review) |
+| Title | Conference | Status |
+|---|---|---|
+| Performance Evaluation of Deep Learning Applications in Macrobenthic Faunal Diversity in the Indian Seas | ICSCS 2026 | 🔄 Under Review |
 
 ---
 
@@ -118,48 +135,48 @@ Research-oriented **Data Analyst & AI Developer** with strong expertise in Pytho
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| 🎓 Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 |
-| 🎓 B.Sc. Computer Science | Annamalai University | 2024 · 82% |
+| Degree | Institution | Year | Grade |
+|---|---|---|---|
+| 🎓 Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | — |
+| 🎓 B.Sc. Computer Science | Annamalai University | 2024 | 82% |
 
+---
+
+## 🎤 Leadership & Talks
+
+- 🗣️ Conducted seminar on **Foundations of NLP and Embeddings**
+- 📊 Led workshop on **Power BI and Data Visualization**
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaisal-11&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaisal-11&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:muhfhii10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhfhii10">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MohamedFaisal-11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:muhfhii10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhfhii10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/MohamedFaisal-11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Turning complex data into clear decisions. 📊"</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedFaisal-11&color=blue&style=flat" alt="Profile views"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer"/>
+</div>
