@@ -20,37 +20,36 @@
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-```python
-class MohamedFaisal:
+🎯 **Research-oriented Data Analyst & AI Developer** from Tamil Nadu, India — passionate about solving real-world problems through data, NLP, and computer vision.
 
-    name       = "Mohamed Faisal N"
-    role       = ["Data Analyst", "AI Developer", "NLP Engineer"]
-    location   = "Karaikal, India 📍"
-    education  = "MCA — Pondicherry University (2024–2026)"
-    seeking    = "Entry-Level DA / AI / NLP Roles 🌍 Worldwide"
+<br/>
 
-    skills = {
-        "Languages"  : ["Python", "SQL"],
-        "AI & NLP"   : ["VADER", "TextBlob", "Tamil Lexicon",
-                        "YOLOv11n", "RetinaNet", "SSD"],
-        "Data"       : ["Pandas", "NumPy", "Matplotlib",
-                        "Seaborn", "EDA", "ETL"],
-        "BI & Tools" : ["Power BI", "MySQL", "FastAPI",
-                        "Flutter", "Jupyter", "GitHub"],
-    }
+🐠 Built an **AI marine biodiversity detection system** — evaluated **11 deep learning models**, created a **~195K image dataset**, and deployed on edge devices with a full mobile app.
 
-    superpower = "Predicting elections from social media 🗳️"
-    fun_fact   = "My model called TVK 108 seats before anyone else! ✅"
+<br/>
 
-    def say_hello(self):
-        print("Let's build something data-driven together! 🚀")
-```
+🗳️ Built an **NLP election prediction pipeline** analyzing **884+ multilingual posts** — successfully **predicted TVK winning TN Election 2026 with 108 seats** before official results.
+
+<br/>
+
+📄 Research paper currently **under review at ICSCS 2026** on deep learning for marine biodiversity.
+
+<br/>
+
+🔍 **Actively seeking Entry-Level Data Analyst / AI / NLP roles worldwide.**
+
+<br/>
+
+| 🎓 MCA — Pondicherry University | 📍 Tamil Nadu, India | 📧 muhfhii10@gmail.com |
+|:---:|:---:|:---:|
 
 <br clear="right"/>
+
+---
 
 ---
 
@@ -237,17 +236,20 @@ class MohamedFaisal:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff"/>
+</td>
+</tr>
+</table>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaisal-11&theme=tokyonight&hide_border=true&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaisal-11&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFaisal-11&theme=tokyo-night&hide_border=true&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFaisal-11&theme=tokyo-night&hide_border=true&radius=8&color=58a6ff&line=58a6ff&point=ffffff"/>
 
 </div>
 
