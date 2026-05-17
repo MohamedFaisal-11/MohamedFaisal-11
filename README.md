@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=250&section=header&text=Mohamed%20Faisal%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Transforming%20Data%20into%20Intelligence%20⚡&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Developer+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%A4%96;Turning+Raw+Data+into+Clear+Decisions+%F0%9F%9A%80;Open+to+Work+%E2%80%94+Worldwide+%F0%9F%8C%8D" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Developer+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%A4%96;Turning+Raw+Data+into+Clear+Decisions+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=39D353&center=true&vCenter=true&width=550&lines=✅+Open+to+Work+—+Worldwide+🌍;💼+Actively+Seeking+DA+%2F+AI+%2F+NLP+Roles;📧+muhfhii10%40gmail.com+%7C+Let's+Connect+🚀" alt="Open to Work"/>
 
 <br/>
 
@@ -22,14 +24,13 @@
 
 ## 🧠 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ```python
 class MohamedFaisal:
 
     name       = "Mohamed Faisal N"
     role       = ["Data Analyst", "AI Developer", "NLP Engineer"]
-    location   = "Tamil Nadu, India 📍"
+    location   = "Karaikal, India 📍"
     education  = "MCA — Pondicherry University (2024–2026)"
     seeking    = "Entry-Level DA / AI / NLP Roles 🌍 Worldwide"
 
@@ -215,7 +216,7 @@ class MohamedFaisal:
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Grade |
 |---|---|:---:|:---:|
-| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | — |
+| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | 90 |
 | B.Sc. Computer Science | Annamalai University | 2024 | 82% |
 
 </div>
@@ -239,18 +240,15 @@ class MohamedFaisal:
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&cache_seconds=1800" height="165"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaisal-11&theme=tokyonight&hide_border=true&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFaisal-11&theme=tokyo-night&hide_border=true&radius=8&color=58a6ff&line=58a6ff&point=ffffff"/>
 
