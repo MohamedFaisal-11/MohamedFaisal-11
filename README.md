@@ -20,32 +20,35 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-🎯 **Research-oriented Data Analyst & AI Developer** from Tamil Nadu, India — passionate about solving real-world problems through data, NLP, and computer vision.
+```python
+class MohamedFaisal:
 
-<br/>
+    name       = "Mohamed Faisal N"
+    role       = ["Data Analyst", "AI Developer", "NLP Engineer"]
+    location   = "Tamil Nadu, India 📍"
+    education  = "MCA — Pondicherry University (2024–2026)"
+    seeking    = "Entry-Level DA / AI / NLP Roles 🌍 Worldwide"
 
-🐠 Built an **AI marine biodiversity detection system** — evaluated **11 deep learning models**, created a **~195K image dataset**, and deployed on edge devices with a full mobile app.
+    skills = {
+        "Languages"  : ["Python", "SQL"],
+        "AI & NLP"   : ["VADER", "TextBlob", "Tamil Lexicon",
+                        "YOLOv11n", "RetinaNet", "SSD"],
+        "Data"       : ["Pandas", "NumPy", "Matplotlib",
+                        "Seaborn", "EDA", "ETL"],
+        "BI & Tools" : ["Power BI", "MySQL", "FastAPI",
+                        "Flutter", "Jupyter", "GitHub"],
+    }
 
-<br/>
+    superpower = "Predicting elections from social media 🗳️"
+    fun_fact   = "My model called TVK 108 seats before anyone else! ✅"
 
-🗳️ Built an **NLP election prediction pipeline** analyzing **884+ multilingual posts** — successfully **predicted TVK winning TN Election 2026 with 108 seats** before official results.
-
-<br/>
-
-📄 Research paper currently **under review at ICSCS 2026** on deep learning for marine biodiversity.
-
-<br/>
-
-🔍 **Actively seeking Entry-Level Data Analyst / AI / NLP roles worldwide.**
-
-<br/>
-
-| 🎓 MCA — Pondicherry University | 📍 Tamil Nadu, India | 📧 muhfhii10@gmail.com |
-|:---:|:---:|:---:|
+    def say_hello(self):
+        print("Let's build something data-driven together! 🚀")
+```
 
 <br clear="right"/>
 
