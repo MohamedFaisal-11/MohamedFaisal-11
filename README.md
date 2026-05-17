@@ -46,7 +46,7 @@
 
 <br/>
 
-| 🎓 MCA — Pondicherry University | 📍 Tamil Nadu, India | 📧 muhfhii10@gmail.com |
+| 🎓 MCA — Pondicherry University | 📍 Karaikal, India | 📧 muhfhii10@gmail.com |
 |:---:|:---:|:---:|
 
 <br clear="right"/>
@@ -142,7 +142,6 @@
 </tr>
 </table>
 
-[![View Repo](https://img.shields.io/badge/🔗%20View%20Repository-marine--biodiversity--detection-0288D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/marine-biodiversity-detection)
 
 ---
 
@@ -177,7 +176,6 @@
 </tr>
 </table>
 
-[![View Repo](https://img.shields.io/badge/🔗%20View%20Repository-sentiment--analysis--tn2026-8E24AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/sentiment-analysis-tn2026)
 
 ---
 
@@ -238,9 +236,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 <br/>
 
