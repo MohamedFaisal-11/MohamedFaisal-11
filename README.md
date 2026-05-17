@@ -24,8 +24,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
 🎯 **Research-oriented Data Analyst & AI Developer** from Tamil Nadu, India — passionate about solving real-world problems through data, NLP, and computer vision.
 
 <br/>
@@ -212,7 +210,7 @@
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Grade |
 |---|---|:---:|:---:|
-| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | — |
+| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | 90% |
 | B.Sc. Computer Science | Annamalai University | 2024 | 82% |
 
 </div>
@@ -235,10 +233,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 <br/>
 
