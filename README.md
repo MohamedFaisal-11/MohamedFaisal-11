@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Developer+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%A4%96;Turning+Raw+Data+into+Clear+Decisions+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=39D353&center=true&vCenter=true&width=550&lines=✅+Open+to+Work+—+Worldwide+🌍;💼+Actively+Seeking+DA+%2F+AI+%2F+NLP+Roles;📧+muhfhii10%40gmail.com+%7C+Let's+Connect+🚀" alt="Open to Work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=%F0%9F%9F%A2+Open+to+Work+%E2%80%94+Worldwide+%F0%9F%8C%8D;%F0%9F%92%BC+Seeking+DA+%2F+AI+%2F+NLP+Roles;%F0%9F%93%A7+muhfhii10%40gmail.com" alt="Open to Work"/>
 
 <br/>
 
@@ -22,38 +22,34 @@
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-```python
-class MohamedFaisal:
+🎯 **Research-oriented Data Analyst & AI Developer** from Tamil Nadu, India — passionate about solving real-world problems through data, NLP, and computer vision.
 
-    name       = "Mohamed Faisal N"
-    role       = ["Data Analyst", "AI Developer", "NLP Engineer"]
-    location   = "Karaikal, India 📍"
-    education  = "MCA — Pondicherry University (2024–2026)"
-    seeking    = "Entry-Level DA / AI / NLP Roles 🌍 Worldwide"
+<br/>
 
-    skills = {
-        "Languages"  : ["Python", "SQL"],
-        "AI & NLP"   : ["VADER", "TextBlob", "Tamil Lexicon",
-                        "YOLOv11n", "RetinaNet", "SSD"],
-        "Data"       : ["Pandas", "NumPy", "Matplotlib",
-                        "Seaborn", "EDA", "ETL"],
-        "BI & Tools" : ["Power BI", "MySQL", "FastAPI",
-                        "Flutter", "Jupyter", "GitHub"],
-    }
+🐠 Built an **AI marine biodiversity detection system** — evaluated **11 deep learning models**, created a **~195K image dataset**, and deployed on edge devices with a full mobile app.
 
-    superpower = "Predicting elections from social media 🗳️"
-    fun_fact   = "My model called TVK 108 seats before anyone else! ✅"
+<br/>
 
-    def say_hello(self):
-        print("Let's build something data-driven together! 🚀")
-```
+🗳️ Built an **NLP election prediction pipeline** analyzing **884+ multilingual posts** — successfully **predicted TVK winning TN Election 2026 with 108 seats** before official results.
+
+<br/>
+
+📄 Research paper currently **under review at ICSCS 2026** on deep learning for marine biodiversity.
+
+<br/>
+
+🔍 **Actively seeking Entry-Level Data Analyst / AI / NLP roles worldwide.**
+
+<br/>
+
+| 🎓 MCA — Pondicherry University | 📍 Tamil Nadu, India | 📧 muhfhii10@gmail.com |
+|:---:|:---:|:---:|
 
 <br clear="right"/>
-
----
 
 ---
 
@@ -61,12 +57,10 @@ class MohamedFaisal:
 
 <div align="center">
 
-```
-╔══════════════════╦═══════════════════╦══════════════════════╦════════════════╦═════════════════╗
-║  🔬 11 Models    ║  📸 ~195K Images  ║  🗳️ TVK — 108 Seats ║  📱 884+ Posts  ║  📄 ICSCS 2026 ║
-║   Evaluated      ║   Dataset Built   ║   Predicted ✅       ║   Analyzed     ║  Under Review  ║
-╚══════════════════╩═══════════════════╩══════════════════════╩════════════════╩═════════════════╝
-```
+| 🔬 Models Evaluated | 📸 Dataset Built | 🗳️ Election Prediction | 📱 Posts Analyzed | 📄 Research |
+|:---:|:---:|:---:|:---:|:---:|
+| **11 Models** | **~195K Images** | **TVK — 108 Seats ✅** | **884+ Posts** | **ICSCS 2026** |
+| Benchmarked | Augmented | Predicted & Validated | Multilingual | Under Review |
 
 </div>
 
@@ -148,6 +142,8 @@ class MohamedFaisal:
 </tr>
 </table>
 
+[![View Repo](https://img.shields.io/badge/🔗%20View%20Repository-marine--biodiversity--detection-0288D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/marine-biodiversity-detection)
+
 ---
 
 ### 🗳️ Project 2 — Multilingual Sentiment Analysis · TN Election 2026
@@ -180,6 +176,8 @@ class MohamedFaisal:
 </td>
 </tr>
 </table>
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20Repository-sentiment--analysis--tn2026-8E24AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFaisal-11/sentiment-analysis-tn2026)
 
 ---
 
@@ -216,7 +214,7 @@ class MohamedFaisal:
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Grade |
 |---|---|:---:|:---:|
-| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | 90 |
+| Master of Computer Applications (MCA) | Pondicherry University, Karaikal | 2024–2026 | — |
 | B.Sc. Computer Science | Annamalai University | 2024 | 82% |
 
 </div>
@@ -240,9 +238,9 @@ class MohamedFaisal:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFaisal-11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaisal-11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=58a6ff" height="165"/>
 
 <br/>
 
