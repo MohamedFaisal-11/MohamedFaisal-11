@@ -8,7 +8,8 @@
 
 <br/>
 
-<a href="mailto:muhfhii10@gmail.com"><img src="https://img.shields.io/badge/Gmail-muhfhii10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:muhfhii10@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohamedfaisalmaraicar@gmail.com
+-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhfhii10"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Faisal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -58,7 +59,7 @@
 | 🔬 Models Evaluated | 📸 Dataset Built | 🗳️ Election Prediction | 📱 Posts Analyzed | 📄 Research |
 |:---:|:---:|:---:|:---:|:---:|
 | **11 Models** | **~195K Images** | **TVK — 108 Seats ✅** | **884+ Posts** | **ICSCS 2026** |
-| Benchmarked | Augmented | Predicted & Validated | Multilingual | Under Review |
+| Benchmarked | Augmented | Predicted & Validated | Multilingual | Accepted |
 
 </div>
 
