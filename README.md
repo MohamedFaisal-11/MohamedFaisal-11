@@ -36,7 +36,8 @@
 
 <br/>
 
-📄 Research paper currently **under review at ICSCS 2026** on deep learning for marine biodiversity.
+📄 Performance Evaluation of Deep Learning Applications in Macrobenthic Faunal Diversity in the Indian Seas
+Published at the 4th International Conference on Sustainable Computing and Smart Systems (ICSCSS 2026).
 
 <br/>
 
@@ -58,7 +59,7 @@
 | 🔬 Models Evaluated | 📸 Dataset Built | 🗳️ Election Prediction | 📱 Posts Analyzed | 📄 Research |
 |:---:|:---:|:---:|:---:|:---:|
 | **11 Models** | **~195K Images** | **TVK — 108 Seats ✅** | **884+ Posts** | **ICSCS 2026** |
-| Benchmarked | Augmented | Predicted & Validated | Multilingual | Accepted |
+| Benchmarked | Augmented | Predicted & Validated | Multilingual | Published |
 
 </div>
 
